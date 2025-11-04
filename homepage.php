@@ -13,6 +13,8 @@
     <div class="content">
         <h1>Selamat Datang Ke Sistem Maklumat Pelajar KVDSAZI</h1>
         <button class="login-btn"><a href="lgpg.php">LOGIN</a></button>
+        <p>Belum Mempunyai Akaun? Daftar Sekarang</p>
+        <button class="register-btn"><a href="daftar.php">DAFTAR AKAUN</a></button>
     </div>
 </body>
 </html>
